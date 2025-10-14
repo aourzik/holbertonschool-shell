@@ -1,2 +1,2 @@
 #!/bin/bash
-tr -s '[:space:]' '\n' | sort | uniq -c | awk '$1 == 1 { print $2 }'
+tr -s '[:space:]' '\n' | sort | uniq -u
