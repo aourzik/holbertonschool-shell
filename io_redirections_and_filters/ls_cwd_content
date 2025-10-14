@@ -1,0 +1,14 @@
+total 48
+drwxrwxrwx+ 2 codespace codespace 4096 Oct 14 11:53 .
+drwxrwxrwx+ 6 codespace root      4096 Oct 14 08:18 ..
+-rwxrw-rw-  1 codespace codespace   32 Oct 14 08:30 0-hello_world
+-rwxrw-rw-  1 codespace codespace   30 Oct 14 08:50 1-confused_smiley
+-rwxrw-rw-  1 codespace codespace   28 Oct 14 08:54 2-hellofile
+-rwxrw-rw-  1 codespace codespace   39 Oct 14 09:04 3-twofiles
+-rwxrw-rw-  1 codespace codespace   35 Oct 14 09:08 4-lastlines
+-rwxrw-rw-  1 codespace codespace   35 Oct 14 09:15 5-firstlines
+-rwxrw-rw-  1 codespace codespace   40 Oct 14 09:28 6-third_line
+-rwxrw-rw-  1 codespace codespace   86 Oct 14 11:42 7-file
+-rwxrw-rw-  1 codespace codespace   36 Oct 14 11:53 8-cwd_state
+-rw-rw-rw-  1 codespace codespace  213 Oct 14 08:56 README.md
+-rw-rw-rw-  1 codespace codespace    0 Oct 14 11:53 ls_cwd_content
