@@ -1,2 +1,2 @@
 #!/bin/bash
-bash -c $'printenv\necho\ndeclare -p\necho\ndeclare -F'
+set
