@@ -1,0 +1,2 @@
+#!/bin/bash
+for i in {a..z} for j in {a..z} do test $i$j != oo && echo $i$j done
