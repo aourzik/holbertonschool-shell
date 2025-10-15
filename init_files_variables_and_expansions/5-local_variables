@@ -1,2 +1,2 @@
 #!/bin/bash
-bash -c $'pritenv\necho\ndeclare -p\necho\ndeclare -F'
+bash -c $'printenv\necho\ndeclare -p\necho\ndeclare -F'
